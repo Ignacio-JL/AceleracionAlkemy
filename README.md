@@ -6,3 +6,5 @@
 * MySQL
 * Postman
 * Dbeaver
+* Lombok
+* JPA
